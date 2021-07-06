@@ -1,4 +1,4 @@
-# Olá, meu nome é Micael Riboura 👋
+# Olá, eu sou o Micael Riboura 👋
 <p align="justify">
   Sou apaixonado por tecnologia e desenvolvimento de software. Estudo Ciência da Computação na UNISUAM e sou estagiário no Laboratório de Engenharia de Software da PUC-Rio, instituições de ensino que me ensinaram a importância da troca de conhecimento e usar a tecnologia como ferramenta transformadora da vida das pessoas.
 </p>
