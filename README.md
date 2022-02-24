@@ -11,7 +11,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=MicaelRiboura&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy) 
   
 
-  ## Skills
+  ## Habilidades
   <div>
     <img align="center" alt="Micael-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Micael-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
