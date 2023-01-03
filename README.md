@@ -1,7 +1,7 @@
 # Olá, eu sou o Micael Riboura 👋
 
 <p align="justify">
-  Sou apaixonado por tecnologia e desenvolvimento de software. Estudo Ciência da Computação na UNISUAM e estagiei no Laboratório de Engenharia de Software da PUC-Rio, instituições de ensino que me ensinaram a importância da troca de conhecimento e usar a tecnologia como ferramenta transformadora da vida das pessoas.
+  Sou apaixonado por tecnologia e desenvolvimento de software. Sou formado em Ciência da Computação pela UNISUAM e estagiei no Laboratório de Engenharia de Software da PUC-Rio, instituições de ensino que me ensinaram a importância da troca de conhecimento e usar a tecnologia como ferramenta transformadora da vida das pessoas.
 </p>
  <div>
   <a href="https://github.com/micaelriboura">
