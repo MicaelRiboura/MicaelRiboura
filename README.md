@@ -1,7 +1,7 @@
 # Olá, eu sou o Micael Riboura 👋
 
 <p align="justify">
-  Sou formado em Ciência da Computação pela UNISUAM, pós-graduando em Engenharia de Software na PUC-Rio e trabalho como Desenvolvedor FullStack no instituto ECOA PUC-Rio. Instituições de ensino que me ensinaram a importância de usar a tecnologia como ferramenta transformadora da vida das pessoas.
+  Pós-graduando em Engenharia de Software na PUC-Rio, formado em Ciência da Computação e trabalho como Desenvolvedor FullStack no instituto ECOA PUC-Rio.
 </p>
  <div>
   <a href="https://github.com/micaelriboura">
