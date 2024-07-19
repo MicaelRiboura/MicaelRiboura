@@ -1,7 +1,9 @@
 # Olá, eu sou o Micael Riboura 👋
 
 <p align="justify">
-  Pós-graduando em Engenharia de Software na PUC-Rio, formado em Ciência da Computação e trabalho como Desenvolvedor FullStack no instituto ECOA PUC-Rio.
+  Como desenvolvedor FullStack, meu foco principal é o desenvolvimento de aplicações web com o objetivo de solucionar problemas complexos de diferentes setores econômicos através de projetos de pesquisa e desenvolvimento (P&D) aplicados.
+
+  Com sólidos fundamentos em JavaScript, Python e boas práticas da Engenharia de Software, estou preparado para atuar em grandes projetos.
 </p>
  <div>
   <a href="https://github.com/micaelriboura">
